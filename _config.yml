@@ -12,8 +12,8 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://ajinkyabapat.me
-baseurl: /
-title: Ajinkyaa Bapat
+baseurl: //
+title: Ajinkya Bapat
 author: Ajinkya Bapat
 description: Personal blog and resume
 avatar: profile.png
@@ -21,9 +21,9 @@ email: ajinkyabapat12@gmail.com
 github: AjinkyaBapat # username
 twitter: ajinkyab12
 linkedin: ajinkyabapat
-stackoverflow: ajinkya-bapat   #e.g: users/2735833/proton1h1
+stackoverflow: users/6202024/ajinkya-bapat   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
+disqus: ajinkyabapat-me
 google_analytics: UA-69391421-1
 
 
