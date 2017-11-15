@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://ajinkyabapat.me/
-baseurl: /home/
+baseurl: "{{url}}"
 title: Ajinkya Bapat
 author: Ajinkya Bapat
 description: Personal blog and resume
