@@ -11,9 +11,9 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://ajinkyabapat.me/
-baseurl: /sustain/
-title: Ajinkya Bapat
+url: http://ajinkyabapat.me
+baseurl: /
+title: Ajinkyaa Bapat
 author: Ajinkya Bapat
 description: Personal blog and resume
 avatar: profile.png
