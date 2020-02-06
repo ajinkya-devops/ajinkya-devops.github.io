@@ -13,4 +13,4 @@ Gemfile.lock
 *.swp
 
 #CNAME
-CNAME
+/CNAME
